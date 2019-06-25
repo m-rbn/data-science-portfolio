@@ -1,5 +1,5 @@
 # Data Science Portfolio
-*M.Ruben (Last updated: June 2019)*
+*M. Ruben (Last updated: June 2019)*
 ***
 This purpose of this repository is to document my Data Science projects. The projects are for academic, self-learning and hobby purposes. The projects are presented in the form of Jupyter Notebook and were written in Python 3. Below are descriptions of the projects included in this repository.
 ***
